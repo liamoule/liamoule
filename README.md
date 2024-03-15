@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🔭 I’m currently working on the hacking with kali linux on debiant
-- 🌱 I’m currently learning the cybersecurity
-- 👯 I’m looking to collaborate on a project of bash hacking
+### Salut toi 👋
+- 🔭 Owner² d'LSD5
+- 🐺 Owner de Zephyr v2 
+
 
